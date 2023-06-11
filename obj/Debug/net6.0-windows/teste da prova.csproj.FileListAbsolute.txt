@@ -1,0 +1,18 @@
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\bin\Debug\net6.0-windows\teste da prova.exe
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\bin\Debug\net6.0-windows\teste da prova.deps.json
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\bin\Debug\net6.0-windows\teste da prova.runtimeconfig.json
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\bin\Debug\net6.0-windows\teste da prova.dll
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\bin\Debug\net6.0-windows\teste da prova.pdb
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.csproj.AssemblyReference.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste_da_prova.Form1.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste_da_prova.Properties.Resources.resources
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.csproj.GenerateResource.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.AssemblyInfoInputs.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.AssemblyInfo.cs
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.csproj.CoreCompileInputs.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.dll
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\refint\teste da prova.dll
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.pdb
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\teste da prova.genruntimeconfig.cache
+C:\Users\prifo\OneDrive\Área de Trabalho\pasta\teste da prova\obj\Debug\net6.0-windows\ref\teste da prova.dll
